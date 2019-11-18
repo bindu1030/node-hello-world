@@ -18,7 +18,4 @@
     "mocha": "^5.1.1",
     "supertest": "^3.0.0"
   }
-  "publishConfig": {
-    "@node-hello-world:registry":"https://gitlab.com/api/v4/projects/14639465/packages/npm/"
-  }
 }
