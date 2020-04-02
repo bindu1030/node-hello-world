@@ -1,5 +1,5 @@
 {
-  "name": "node-hello-world/mynpmpackage",
+  "name": "@jkrooswyk/mynpmpackage",
   "version": "8.0.1",
   "main": "index.js",
   "scripts": {
