@@ -21,6 +21,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://gitlab.com/api/v4/projects/PROJECT_ID/packages/npm/"
+    "registry": "https://gitlab.com/api/v4/projects/14639465/packages/npm/"
   }
 }
