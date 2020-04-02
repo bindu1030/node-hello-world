@@ -1,5 +1,5 @@
 {
-  "name": "@jkrooswyk/mynpmpackage",
+  "name": "@the_beast/mynpmpackage",
   "version": "8.0.1",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://gitlab.com/api/v4/projects/14639465/packages/npm/"
+    "@the_beast:registry": "https://gitlab.com/api/v4/projects/14639465/packages/npm/"
   }
 }
