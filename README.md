@@ -6,7 +6,7 @@ Improvements can be proposed in the [original project](https://gitlab.com/gitlab
 
 ### CI/CD with Auto DevOps
 
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
+This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/) but currently uses a simple custome pipeline instead, which pushes a package to the GitLab NPM registry.
 
 If Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
 
